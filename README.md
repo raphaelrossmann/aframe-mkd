@@ -1,3 +1,3 @@
 # Eine Einführung in das WebVR-Framework A-Frame
-Modelle für das A-Frame-Projekt
-MKD WS 18/19
+3D-Modelle, Texturen und Medien für das A-Frame-Projekt
+MKD 27 - WS 18/19
